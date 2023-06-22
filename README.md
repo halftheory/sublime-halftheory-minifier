@@ -11,7 +11,6 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 git clone https://github.com/halftheory/sublime-halftheory-minifier Minifier
 # open SublimeText > Package Control: Satify Dependencies
 ```
-
 Usage
 -----
 
